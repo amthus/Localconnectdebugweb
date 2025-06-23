@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
   size="lg"
   onClick={() =>
     window.open(
-      "https://expo.dev/artifacts/eas/tPfUhWYghgcEynkiFf2qaP.aab",
+      "https://expo.dev/accounts/thusdev/projects/LocalConnect/builds/999d9b43-30b2-48ff-b725-0adb33840395",
       "_blank"
     )
   }
