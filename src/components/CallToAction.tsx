@@ -69,7 +69,7 @@ const CallToAction: React.FC = () => {
           <div className="max-w-md mx-auto mb-12">
             {/* APK Download Button */}
             <a 
-              href="https://expo.dev/accounts/thusdev/projects/LocalConnect/builds/cf155cc2-4edf-4a85-8bcd-6c38826b602c"
+              href="https://expo.dev/artifacts/eas/tPfUhWYghgcEynkiFf2qaP.aab"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#333333] text-white rounded-lg p-4 flex items-center justify-center hover:opacity-90 cursor-pointer transition-all w-full"
